@@ -46,7 +46,7 @@ Extracted top keywords associated with positive/negative sentiments.
 Predicted each candidate's winning prospects based on sentiment analysis.
 Compared sentiment predictions with actual election results.
 
-🤝 Contributing
+## 👥 Contributors
 - [@Vemas7731](https://github.com/Vemas7731)
 - [@FauzanZamz](https://github.com/FauzanZamz)
 - [@adamrobin](https://github.com/adamrobin)
