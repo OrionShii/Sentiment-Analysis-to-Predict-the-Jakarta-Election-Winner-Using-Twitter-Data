@@ -27,18 +27,7 @@ This project analyzes public sentiment on Jakarta election candidates using Twit
 ## 📌 Installation  
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/jakarta-election-sentiment.git
-
-# Navigate to project folder
-cd jakarta-election-sentiment
-
-# Create virtual environment (optional)
-python -m venv venv
-source venv/bin/activate  # For MacOS/Linux
-venv\Scripts\activate  # For Windows
-
-# Install dependencies
-pip install -r requirements.txt
+git clone https://github.com/yourusername/jakarta-election-sentiment.git](https://github.com/OrionShii/Sentiment-Analysis-to-Predict-the-Jakarta-Election-Winner-Using-Twitter-Data.git
 
 ```
 📌 Results
